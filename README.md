@@ -30,12 +30,11 @@ VGG16 모델로 얼굴 특징을 추출하고, 코사인 유사도 기반 추천
 
 ---
 
-## 기술 스택 및 개발 환경
+## 기술 스택
 
 - Backend: Java, Spring Boot, AWS Keyspaces (Cassandra), Python
 - Frontend: HTML/CSS, JavaScript
 - AI: VGG16, IPCA, K-NN, Cosine Similarity
-
 ---
 
 ## 주요 기능 소개
